@@ -1,8 +1,3 @@
-// Randomized quick sort by recursion O(nlogn) inplace(don't need to create new array)
-// worst case overcoming by randomized quick sort
-// shuffle and apply quicksort
-// srand() generates random 
-// it always uses O(nlogn) and this is the function which is used in inbuilt sort()
 
 #include<bits/stdc++.h>
 #include<ctime>
